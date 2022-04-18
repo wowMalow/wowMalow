@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @wowMalow
 - 👀 I’m interested in Data Science, Machine Learning and Data Analysis
+- And generative art ✨
 
 <!---
 wowMalow/wowMalow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
